@@ -1,0 +1,23 @@
+
+
+.item-list ul{
+    list-style: none;
+    padding: 0;
+
+}
+
+.item-list li{
+    padding: .25rem;
+    border-bottom: 1px solid rgb(102, 101, 101);
+}
+
+
+
+.item-list li:hover{
+    color: rgb(32, 250, 137);
+    cursor: pointer;
+}
+
+.selected{
+    background-color: black;
+}

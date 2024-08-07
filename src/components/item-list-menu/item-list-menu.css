@@ -1,0 +1,27 @@
+.item-list-menu {
+    margin-top: 20px;
+}
+
+
+/* Класс list-menu */
+.list-menu {
+    list-style: none;
+    padding: 0;
+
+}
+
+.list-menu li{
+    padding: .25rem;
+    border-bottom: 1px solid rgb(102, 101, 101);
+}
+
+.list-menu li:last-child{
+    border-bottom: none;
+}
+
+.item-list-menu li span:last-child{
+    float: right;
+    padding-right: 7px;
+    word-break: break-all;
+    margin-left: 3px;
+}

@@ -1,0 +1,30 @@
+.random-palnet {
+    align-items: center;
+    justify-content:space-around;
+}
+
+.random-palnet img {
+    margin-left: 5px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+
+
+.random-planet-data{
+    width: 100%;
+}
+
+
+
+.list-menu span {
+    margin-right: 5px;
+}
+
+.list-menu li {
+    list-style: none;
+    padding: 0.25rem;
+    border-bottom: 1px solid rgb(102, 101, 101);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

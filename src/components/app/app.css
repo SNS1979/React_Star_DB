@@ -1,0 +1,19 @@
+.star-db{
+    padding: 0px 20px 0px 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.star-db-panel2{
+    margin-top: 20px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.star-db-panel2-panel1{
+    width: 43%;
+}
+
+.star-db-panel2-panel2{
+    width: 53%;
+}
